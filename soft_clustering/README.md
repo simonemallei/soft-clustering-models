@@ -5,4 +5,4 @@ Directories:
 
 File:
 - metrics.py: contains the metrics implemented. These metrics are consistent with Soft Clustering results.
-- __init__.py: file used in order to recognize the presence of the package.
+- \_\_init\_\_.py: file used in order to recognize the presence of the package.
