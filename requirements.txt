@@ -1,5 +1,5 @@
 HeapDict==1.0.1
-joblib==1.1.0
+joblib==1.2.0
 numpy==1.21.4
 scikit-learn==1.0
 scipy==1.7.3
